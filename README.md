@@ -62,26 +62,26 @@ The tool follows a structured NLP pipeline:
 8. **Summary Generation** – Top sentences are combined into a concise summary.
 This ensures the summary captures the most meaningful information.
 
-## 🌍 Applications
+# 🌍 Applications
 This tool can be implemented in:
-📰 News Aggregation Platforms
-📖 Academic Research Tools
-📧 Email Summarization Systems
-📊 Corporate Reporting Tools
-🤖 Chatbots & AI Assistants
-📚 Educational Platforms
-🧾 Legal Document Processing
-📝 Blogging & Content Management Systems
-🔬 Real-World Relevance
+## 📰 News Aggregation Platforms ##
+## 📖 Academic Research Tools ##
+## 📧 Email Summarization Systems ##
+## 📊 Corporate Reporting Tools ##
+## 🤖 Chatbots & AI Assistants ##
+## 📚 Educational Platforms ##
+## 🧾 Legal Document Processing ##
+## 📝 Blogging & Content Management Systems ##
+## 🔬 Real-World Relevance ##
 
-## Text summarization plays a critical role in:
+# Text summarization plays a critical role in:
 
-Artificial Intelligence systems
-Machine Learning pipelines
-Data Analytics dashboards
-Automated Customer Support
-Knowledge Management systems
-By reducing reading time and improving information accessibility, summarization improves productivity and decision-making efficiency.
+## Artificial Intelligence systems ##
+## Machine Learning pipelines ##
+## Data Analytics dashboards ##
+## Automated Customer Support ##
+## Knowledge Management systems ##
+## By reducing reading time and improving information accessibility, summarization improves productivity and decision-making efficiency. ##
 
 ## 📜 Conclusion
 
