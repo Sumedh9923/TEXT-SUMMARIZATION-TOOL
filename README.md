@@ -49,7 +49,7 @@ This project fulfills the requirement of building a functional NLP-based summari
 - VS Code / Notepad / Python IDLE
 - Compatible with PyCharm & Jupyter Notebook
 
-## ⚙️ How It Works
+# ⚙️ How It Works
 The tool follows a structured NLP pipeline:
 
 1. **Input Text** – A long article or paragraph is provided.
@@ -60,10 +60,9 @@ The tool follows a structured NLP pipeline:
 6. **Sentence Scoring** – Sentences are scored using word frequency.
 7. **Sentence Ranking** – Highest scoring sentences are selected.
 8. **Summary Generation** – Top sentences are combined into a concise summary.
-   
 This ensures the summary captures the most meaningful information.
 
-#🌍 Applications
+##🌍 Applications
 This tool can be implemented in:
 📰 News Aggregation Platforms
 📖 Academic Research Tools
@@ -75,8 +74,8 @@ This tool can be implemented in:
 📝 Blogging & Content Management Systems
 🔬 Real-World Relevance
 
+#####Text summarization plays a critical role in:
 
-##Text summarization plays a critical role in:
 Artificial Intelligence systems
 Machine Learning pipelines
 Data Analytics dashboards
@@ -85,6 +84,7 @@ Knowledge Management systems
 By reducing reading time and improving information accessibility, summarization improves productivity and decision-making efficiency.
 
 ##📜 Conclusion
+
 The Text Summarization Tool demonstrates a practical implementation of Natural Language Processing using Python. By leveraging tokenization, stopword removal, and frequency-based scoring, the system efficiently extracts meaningful information from long textual content.
 This project showcases foundational NLP skills, problem-solving ability, and real-world applicability of AI-driven text processing systems.
 
