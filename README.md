@@ -88,3 +88,5 @@ This tool can be implemented in:
 The Text Summarization Tool demonstrates a practical implementation of Natural Language Processing using Python. By leveraging tokenization, stopword removal, and frequency-based scoring, the system efficiently extracts meaningful information from long textual content.
 This project showcases foundational NLP skills, problem-solving ability, and real-world applicability of AI-driven text processing systems.
 
+# Output
+
