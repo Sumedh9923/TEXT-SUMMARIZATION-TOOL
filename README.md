@@ -89,4 +89,4 @@ The Text Summarization Tool demonstrates a practical implementation of Natural L
 This project showcases foundational NLP skills, problem-solving ability, and real-world applicability of AI-driven text processing systems.
 
 # Output
-[output.txt](https://github.com/user-attachments/files/25235849/output.txt)
+
